@@ -1,1 +1,1 @@
-# Estrutura-de-Dados
+# trabalho tem como objetivo abordar a resolução de um problema relacionado à análise de dados acadêmicos de estudantes. O problema em questão envolve a leitura de informações contidas em um arquivo de texto e a aplicação de cálculos para determinar a situação final de cada aluno, com base em suas notas e outros dados relevantes.
